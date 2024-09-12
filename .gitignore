@@ -1,0 +1,14 @@
+# dependencies
+/node_modules
+/.next
+/dist
+/out
+/npm-debug.log*
+/yarn-error.log
+/out.zip
+# production
+/Dockerfile
+# misc
+.DS_Store
+.vscode
+
